@@ -42,3 +42,11 @@ Phase 1 will likely resemble a slack clone.
 - Creating fictive kinships families.
 - Event planning
 - Delight events
+
+
+---
+
+## random thoughts on name
+
+kin
+Cognate
