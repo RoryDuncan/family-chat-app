@@ -16,8 +16,10 @@ This means it needs simpler features to not require "tech support."
 ## Expected Difficulties
 
 - Adoption
-- Monetization
+- Monetization Models
 
+
+# Product
 
 ## features
 
@@ -38,15 +40,16 @@ Phase 1 will likely resemble a slack clone.
 
 ### MVP Phase 1
 
-- Connecting families
+- Connecting affinal families
 - Creating fictive kinships families.
 - Event planning
 - Delight events
-
+- Involvment of adolescent accounts
 
 ---
 
-## random thoughts on name
+
+## random thoughts on name branding 
 
 kin
 Cognate
