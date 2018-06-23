@@ -35,3 +35,10 @@ Phase 1 will likely resemble a slack clone.
 - relationship-based perspectives of family
 - signing up family members
   - email with passwordless login
+
+### MVP Phase 1
+
+- Connecting families
+- Creating fictive kinships families.
+- Event planning
+- Delight events
