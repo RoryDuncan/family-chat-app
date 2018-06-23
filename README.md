@@ -19,7 +19,7 @@ This means it needs simpler features to not require "tech support."
 - Monetization
 
 
-# features
+## features
 
 ### MVP Phase 1
 
